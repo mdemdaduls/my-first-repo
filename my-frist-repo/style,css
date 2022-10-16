@@ -8,3 +8,7 @@
       font-color: blue;
 }
 
+.page p{
+      text-aline: justify;
+      font-color: red;
+}
