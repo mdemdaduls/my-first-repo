@@ -1,14 +1,15 @@
 *{
       margin: 0;
-      padding; 0;
+      padding: 0;
 
 }
 .h1{
-      text-aline: center;
-      font-color: blue;
+      text-align: center;
+      font-family: georgia;
+      
 }
-
 .page p{
-      text-aline: justify;
-      font-color: red;
+
+      text-align: justify;
+      color: rebeccapurple; 
 }
