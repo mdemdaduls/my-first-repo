@@ -1,0 +1,48 @@
+*
+{
+                    margin: 0;
+                    padding: 0;
+}
+h1{
+                    text-align: center;
+                    color: rgb(255, 2, 213);
+                    margin-top: 40px;
+                    font-size: 50px;
+}
+.page {
+          font-size: 20px;
+          font-family: sans-serif;
+          margin-left: 100px;
+          margin-top: 50px;
+          box-sizing: border-box;
+}
+.phone{
+          font-size: 20px;
+          justify-content: space-between;
+          align-items: center; 
+          justify-items: center;
+          text-align: right;
+          margin-bottom: 40px; 
+          margin-right: 200px;
+
+          
+}
+.columns {
+          float: left;
+          width: 33.3%;
+          padding: 40px;
+         }
+.columns h1 {
+          text-decoration: underline;
+          font-size: 50px;
+} 
+.price li{
+          padding: 20px;
+          text-align: center;
+          font-size: 25px;
+}   
+.pay{
+          margin: 30px;
+          justify-content: center;
+          text-align: right;
+}              
